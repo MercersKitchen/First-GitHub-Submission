@@ -22,6 +22,8 @@ If I could create ____?____ to run on a cell phone, I would be doing very well.
 
 ---
 
-Note: this will be used in a upcoming hackathon
+# For the Future ...
+
+These answers will be used in a upcoming hackathon
 
 ---
