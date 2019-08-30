@@ -11,7 +11,7 @@ Date Accessed:
 
 Reason for Studying Computer Science:
 
-Post-Secondary Faculty Interests:
+Post-Secondary Faculty Interests (what do you want to study after high school):
 
 ---
 
